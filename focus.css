@@ -1,0 +1,11 @@
+.diss {
+    padding: 2px;
+    display: none;
+  }
+    
+  button:focus + .diss {
+    display: block;
+  }
+  .wrapper{
+      margin-top: 10px;
+  }
